@@ -1,1 +1,1 @@
-"#Sputnik Chrome extension" 
+# Sputnik Chrome extension
